@@ -27,6 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "border-light",
             "p-2",
             "bg-light"
+            , "effect"
           );
   
      
