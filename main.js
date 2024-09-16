@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
           let img = document.createElement("img");
           img.src = product.image;  
           img.alt = product.title;  
-          img.classList.add("card-img-top", );
+          img.classList.add("card-img-top", "size");
   
     
           let cardBody = document.createElement("div");
